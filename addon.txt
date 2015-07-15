@@ -1,0 +1,8 @@
+"AddonInfo"
+{
+	"name"			"Ranks"
+	"version"		"1.0"
+	"author_name"		"Igings"
+	"info"			"Rank sync for TTT"
+	"override"    "0"
+}
